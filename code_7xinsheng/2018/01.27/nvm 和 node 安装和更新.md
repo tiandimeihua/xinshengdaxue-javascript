@@ -193,5 +193,3 @@ nvm uninstall v6.12.3
 ---
 
 谢谢大家阅读，关于nvm 和node 的安装与更新
-
-test
