@@ -4,7 +4,7 @@ Git 的操作非常重要，Git 可以帮我们把 Github 上的项目下载下�
 
 我总结了一遍 Git 的操作，请同学们开课前完成一下。有问题尽管把问题砸向我。
 
-https://github.com/xugy0926/getting-started-with-javascript/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8Git
+[https://github.com/xugy0926/getting-started-with-javascript/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8Git](https://github.com/xugy0926/getting-started-with-javascript/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8Git)
 
 要求：
 
@@ -14,7 +14,7 @@ https://github.com/xugy0926/getting-started-with-javascript/wiki/%E7%AC%AC%E4%B8
 
 ---
 
-https://github.com/tiandimeihua/xinshengdaxue_javascript
+[https://github.com/tiandimeihua/xinshengdaxue_javascript](https://github.com/tiandimeihua/xinshengdaxue_javascript)
 
 ---
 

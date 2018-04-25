@@ -6,7 +6,7 @@ chrome浏览器会成为教学工具的一部分，请大家安装一下。
 
 这是世界上最好的浏览器。
 
-https://o3b126ie1.qnssl.com/avatar/b2d9353d-1bf6-4a88-900a-fea8771389ce
+[https://o3b126ie1.qnssl.com/avatar/b2d9353d-1bf6-4a88-900a-fea8771389ce](https://o3b126ie1.qnssl.com/avatar/b2d9353d-1bf6-4a88-900a-fea8771389ce)
 
 ---
 

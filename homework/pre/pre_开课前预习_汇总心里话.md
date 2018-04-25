@@ -2,7 +2,7 @@
 
 提交一个项目完成了吗？这一次我们来做一次pull request。把你们的心里话都合并到我的项目中。
 
-详细步骤：https://github.com/xugy0926/getting-started-with-javascript/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1pull-request
+详细步骤：[https://github.com/xugy0926/getting-started-with-javascript/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1pull-request](https://github.com/xugy0926/getting-started-with-javascript/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1pull-request)
 
 在最后这个项目最后一定有价值，等着瞧~
 
