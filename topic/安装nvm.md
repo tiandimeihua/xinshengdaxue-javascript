@@ -1,3 +1,5 @@
+# 安装nvm
+
 ## 开始
 
 nvm全称是node version manager，中文意思是node版本管理。
@@ -21,31 +23,32 @@ nvm全称是node version manager，中文意思是node版本管理。
 注意：如果nvm实在装不了。那你就去[nodejs官网](https://nodejs.org/zh-cn/)直接安装node吧。选择最新版本(好像是8.4了吧)。
 
 打开终端，输入
-```
+
+```bash
 > curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
 ```
 
-![](https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm4.png)
+![https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm4.png](https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm4.png)
 
 和下图一样结果，说明你已经安装成功。
 
-![](https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm5.png)
+![https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm4.png](https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm5.png)
 
 #### 验证安装
 
 关掉终端，重新再打开终端。输入
 
-```
+```bash
 > nvm --version
 ```
 
-![](https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm1.png)
+![https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm1.png](https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm1.png)
 
 【注意】
 
 如果你验证安装还是提示`nvm: command not found`，请按照下面的步骤来操作。
 
-```
+```bash
 > touch ~/.bash_profile
 > touch ~/.bashrc
 > curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.2/install.sh | bash
@@ -57,27 +60,28 @@ nvm全称是node version manager，中文意思是node版本管理。
 
 通过nvm安装node的v8.0.0版本
 
-```
+```bash
 > nvm install v8.0.0
 ```
 
-![](https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm2.png)
+![https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm2.png](https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm2.png)
 
 #### 执行node
 
 在终端，输入node
-```
+
+```bash
 > node
 ```
 
 此时会直接进入到node的终端编辑模式。
-
 在node的终端编辑模式下，输入一行代码
-```
+
+```javascript
 > console.log('hello, js')
 ```
 
-![](https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm3.png)
+![https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm3.png](https://raw.githubusercontent.com/wiki/xugy0926/getting-started-with-javascript/nvm3.png)
 
 你在node环境下运行的第一行代码就大功告成了。
 
