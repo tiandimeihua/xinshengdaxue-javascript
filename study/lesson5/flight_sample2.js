@@ -13,8 +13,8 @@ function checkFlightSchedule(callback) {
   callback(Schedule.startDate + Schedule.startTime);
 }
 
-function callback(flightStartTime) {
+function callback2(flightStartTime) {
   console.log(flightStartTime);
 }
 
-checkFlightSchedule(callback);
+checkFlightSchedule(callback2);
