@@ -1,5 +1,5 @@
-[Welcome to the xinshengdaxue_javascript!](https://tiandimeihua.github.io/xinshengdaxue_javascript/)
+[Welcome to the xinshengdaxue-javascript!](https://tiandimeihua.github.io/xinshengdaxue-javascript/)
 ---
 念念不忘，必有回响
 
-![](https://raw.githubusercontent.com/wiki/tiandimeihua/xinshengdaxue_javascript/MainPicture.jpg)
+![](https://raw.githubusercontent.com/wiki/tiandimeihua/xinshengdaxue-javascript/MainPicture.jpg)
