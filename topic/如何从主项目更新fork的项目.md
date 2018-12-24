@@ -1,16 +1,16 @@
-# 如何从主项目更新fork的项目？
+# 如何从主项目更新 fork 的项目？
 
 该文档由新大张丽娜同学贡献。
 
-当我们从项目A fork了一份到自己的仓库后，项目A的作者还是继续更新。我们该怎么在不重复fork的情况下，更新项目A的内容到自己的仓库呢？
+当我们从项目 A fork 了一份到自己的仓库后，项目 A 的作者还是继续更新。我们该怎么在不重复 fork 的情况下，更新项目 A 的内容到自己的仓库呢？
 
 可以按照下面的操作进行。
 
 #### step 1
 
-打开：terminal，cd到自己fork后git clone的project下
+打开：terminal，cd 到自己 fork 后 git clone 的 project 下
 
-以Mac为例，首先需要打开terminal终端，进入到从github上fork的项目，并且该项目被git clone的你自己的本地目录下。
+以 Mac 为例，首先需要打开 terminal 终端，进入到从 github 上 fork 的项目，并且该项目被 git clone 的你自己的本地目录下。
 
 ![Image text](https://ws4.sinaimg.cn/large/006tNc79gy1fieu7pcpwzj31kw14cwpc.jpg)
 
@@ -21,7 +21,7 @@
 > git remote add upstream xxxx
 ```
 
-与上游仓库同步代码之前，必须配置 remote，“xxxx”代表你需要与之保持同步的数据源，本次作业为例，需要键入老师的git项目地址
+与上游仓库同步代码之前，必须配置 remote，“xxxx”代表你需要与之保持同步的数据源，本次作业为例，需要键入老师的 git 项目地址
 
 ![Image text](https://ws3.sinaimg.cn/large/006tNc79gy1fieups178zj31kw0v5kdu.jpg)
 
@@ -31,7 +31,7 @@
 > git checkout master
 ```
 
-切换至master分支下，该步骤操作简单，直接操作即可
+切换至 master 分支下，该步骤操作简单，直接操作即可
 ![Image text](https://ws3.sinaimg.cn/large/006tNc79gy1fieuxltln2j31ka0qqadc.jpg)
 
 #### step 4
@@ -62,11 +62,11 @@
 > git push origin master
 ```
 
-合并后的文件进行push操作，将本地文件上传至github服务器上。
+合并后的文件进行 push 操作，将本地文件上传至 github 服务器上。
 
 ![Image text](https://ws3.sinaimg.cn/large/006tNc79gy1fieve5w7kaj31kw0xj16i.jpg)
 
 #### tips
 
-1. 你自己的文件在push到github之前一定要进行add和commit的操作，否则会有报错的提示
-1. 操作完成后，去GitHub确认，自己项目文件内容与上游数据一致性，接下来再进行pull request操作
+1. 你自己的文件在 push 到 github 之前一定要进行 add 和 commit 的操作，否则会有报错的提示
+1. 操作完成后，去 GitHub 确认，自己项目文件内容与上游数据一致性，接下来再进行 pull request 操作

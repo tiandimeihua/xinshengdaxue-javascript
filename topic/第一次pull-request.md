@@ -6,41 +6,41 @@
 
 1. 文档中的指令前面都有一个>符号
 
-    ```bash
-    > git push origin master
-    ```
+   ```bash
+   > git push origin master
+   ```
 
-    `>` 符号是从文档层面告诉你`git push origin master`是一条终端的指令。你在终端输入`git push origin master`时，别带`>`。
+   `>` 符号是从文档层面告诉你`git push origin master`是一条终端的指令。你在终端输入`git push origin master`时，别带`>`。
 
-    指令和代码的对比如下
+   指令和代码的对比如下
 
-    ```bash
-    //这是一条终端执行，用`>`来凸显这是一条指令
-    > git push origin master
+   ```bash
+   //这是一条终端执行，用`>`来凸显这是一条指令
+   > git push origin master
 
-    // 这是一行代码，不带`>`
-    var i = 0;
-    ```
+   // 这是一行代码，不带`>`
+   var i = 0;
+   ```
 
 2. 指令的构成，该空格的要空格。
 
-    ```bash
-    // 错误
-    > xcode-select--install // select后面没有空格
+   ```bash
+   // 错误
+   > xcode-select--install // select后面没有空格
 
-    // 正确
-    > xcode-select --install // select后面有空格
-    ```
+   // 正确
+   > xcode-select --install // select后面有空格
+   ```
 
 3. 双引号要用英文
 
-    ```bash
-    // 错误
-    > git commit -m “这是一次提交” // 用了中文的引号”“
+   ```bash
+   // 错误
+   > git commit -m “这是一次提交” // 用了中文的引号”“
 
-    // 正确
-    > git commit -m "这是一次提交" // 要用英文""
-    ```
+   // 正确
+   > git commit -m "这是一次提交" // 要用英文""
+   ```
 
 4. 终端常用指令总结
 

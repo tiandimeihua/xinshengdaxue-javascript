@@ -6,41 +6,41 @@
 
 1. 文档中的指令前面都有一个>符号
 
-    ```bash
-    > git push origin master
-    ```
+   ```bash
+   > git push origin master
+   ```
 
-    `>` 符号是从文档层面告诉你`git push origin master`是一条终端的指令。你在终端输入`git push origin master`时，别带`>`。
+   `>` 符号是从文档层面告诉你`git push origin master`是一条终端的指令。你在终端输入`git push origin master`时，别带`>`。
 
-    指令和代码的对比如下
+   指令和代码的对比如下
 
-    ```bash
-    //这是一条终端执行，用`>`来凸显这是一条指令
-    > git push origin master
+   ```bash
+   //这是一条终端执行，用`>`来凸显这是一条指令
+   > git push origin master
 
-    // 这是一行代码，不带`>`
-    var i = 0;
-    ```
+   // 这是一行代码，不带`>`
+   var i = 0;
+   ```
 
 2. 指令的构成，该空格的要空格。
 
-    ```bash
-    // 错误
-    > xcode-select—install // select后面没有空格
+   ```bash
+   // 错误
+   > xcode-select—install // select后面没有空格
 
-    // 正确
-    > xcode-select —install // select后面有空格
-    ```
+   // 正确
+   > xcode-select —install // select后面有空格
+   ```
 
 3. 双引号要用英文
 
-    ```bash
-    // 错误
-    > git commit -m “这是一次提交” // 用了中文的引号”“
+   ```bash
+   // 错误
+   > git commit -m “这是一次提交” // 用了中文的引号”“
 
-    // 正确
-    > git commit -m "这是一次提交" // 要用英文""
-    ```
+   // 正确
+   > git commit -m "这是一次提交" // 要用英文""
+   ```
 
 4. 终端常用指令总结
 
@@ -260,10 +260,10 @@ Windows 终端输入 cd 指令即可。
 
 #### 基本操作
 
-* 从 Github 上克隆一个项目仓库到本地项目仓库。 `git clone url`
-* 修改项目。
-* 添加修改到本地仓库的缓存区域。`git add -A`
-* 把缓存区域的修改提交到本地仓库。`git commit -m "some logo"`
-* 将本地仓库的提交推送到到远程仓库。 `git push origin master`
+- 从 Github 上克隆一个项目仓库到本地项目仓库。 `git clone url`
+- 修改项目。
+- 添加修改到本地仓库的缓存区域。`git add -A`
+- 把缓存区域的修改提交到本地仓库。`git commit -m "some logo"`
+- 将本地仓库的提交推送到到远程仓库。 `git push origin master`
 
 善用 Github 对我们学习和工作非常有用，除了学习编程之外，还可以把 Github 当做存文档的远程硬盘，你不妨试试把自己的日记也放在 Github 上来存。

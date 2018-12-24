@@ -1,6 +1,6 @@
 for (let i = 0; i < 3; i++) {
-    console.log(i)
-    setTimeout(function () {
-      console.log(i)
-    }, 1000);
+  console.log(i);
+  setTimeout(function() {
+    console.log(i);
+  }, 1000);
 }

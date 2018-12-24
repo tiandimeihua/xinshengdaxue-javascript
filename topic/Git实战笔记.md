@@ -26,8 +26,8 @@
 
 参考资料：
 
-* [Git: add vs push vs commit](https://stackoverflow.com/questions/6143285/git-add-vs-push-vs-commit/)
-* [When should I use git add?](https://stackoverflow.com/questions/3673537/when-should-i-use-git-add/)
+- [Git: add vs push vs commit](https://stackoverflow.com/questions/6143285/git-add-vs-push-vs-commit/)
+- [When should I use git add?](https://stackoverflow.com/questions/3673537/when-should-i-use-git-add/)
 
 ### git commit
 
@@ -43,8 +43,8 @@ git 的一大功能，就是可以将文件退回到某次 commit 之前的版�
 
 参考资料：
 
-* [How to undo the last commits in Git?](https://stackoverflow.com/questions/927358/how-to-undo-the-last-commits-in-git/)
-* [Undoing Changes](https://www.atlassian.com/git/tutorials/undoing-changes/)
+- [How to undo the last commits in Git?](https://stackoverflow.com/questions/927358/how-to-undo-the-last-commits-in-git/)
+- [Undoing Changes](https://www.atlassian.com/git/tutorials/undoing-changes/)
 
 ## 和老师的仓库保持同步
 
@@ -122,9 +122,9 @@ git 的一大功能，就是可以将文件退回到某次 commit 之前的版�
 
 参考资料：
 
-* [How to “pull request” a specific commit](https://stackoverflow.com/questions/34027850/how-to-pull-request-a-specific-commit/)
-* [How to synchronize two branches in the same Git repository?](https://stackoverflow.com/questions/4010962/how-to-synchronize-two-branches-in-the-same-git-repository/)
-* [Git 远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
+- [How to “pull request” a specific commit](https://stackoverflow.com/questions/34027850/how-to-pull-request-a-specific-commit/)
+- [How to synchronize two branches in the same Git repository?](https://stackoverflow.com/questions/4010962/how-to-synchronize-two-branches-in-the-same-git-repository/)
+- [Git 远程操作详解](http://www.ruanyifeng.com/blog/2014/06/git_remote.html)
 
 ### 同步某分支至本地
 
@@ -156,8 +156,8 @@ git 的一大功能，就是可以将文件退回到某次 commit 之前的版�
 
 参考资料：
 
-* [How to clone a single branch in git?](https://stackoverflow.com/questions/1778088/how-to-clone-a-single-branch-in-git)
-* [Syncing](https://www.atlassian.com/git/tutorials/syncing)
+- [How to clone a single branch in git?](https://stackoverflow.com/questions/1778088/how-to-clone-a-single-branch-in-git)
+- [Syncing](https://www.atlassian.com/git/tutorials/syncing)
 
 ### 删除无用分支
 
@@ -186,7 +186,7 @@ git 的一大功能，就是可以将文件退回到某次 commit 之前的版�
 
 参考资料：
 
-* [How do I delete a Git branch both locally and remotely?](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely/)
+- [How do I delete a Git branch both locally and remotely?](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely/)
 
 ### 重命名分支并在其它机器上同步
 
@@ -328,6 +328,6 @@ Switched to a new branch 'note'
 
 参考资料：
 
-* [Rename master branch for both local and remote Git repositories](https://stackoverflow.com/questions/1526794/rename-master-branch-for-both-local-and-remote-git-repositories/)
-* [How to prune local tracking branches that do not exist on remote anymore](https://stackoverflow.com/questions/13064613/how-to-prune-local-tracking-branches-that-do-not-exist-on-remote-anymore/)
-* [Remove local branches no longer on remote](https://stackoverflow.com/questions/7726949/remove-local-branches-no-longer-on-remote/)
+- [Rename master branch for both local and remote Git repositories](https://stackoverflow.com/questions/1526794/rename-master-branch-for-both-local-and-remote-git-repositories/)
+- [How to prune local tracking branches that do not exist on remote anymore](https://stackoverflow.com/questions/13064613/how-to-prune-local-tracking-branches-that-do-not-exist-on-remote-anymore/)
+- [Remove local branches no longer on remote](https://stackoverflow.com/questions/7726949/remove-local-branches-no-longer-on-remote/)

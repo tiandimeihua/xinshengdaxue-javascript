@@ -74,7 +74,6 @@ function scanFile() {
 //写入代码嵌套在扫描代码中，不知到怎么做call back 来调取；
 scanFile();
 
-
 /*
 
 Below this line, you can put in markdown to read it.

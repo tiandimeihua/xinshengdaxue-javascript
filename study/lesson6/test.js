@@ -1,18 +1,18 @@
 /*
-* 同步方案
-*
-* 将内容写入到文件中
-*/
+ * 同步方案
+ *
+ * 将内容写入到文件中
+ */
 
 // 引入fs模块
-var fs = require('fs');
+var fs = require("fs");
 
 // 定义要写入的文件路径
-var outputPathString = './write_file_sync.txt';
+var outputPathString = "./write_file_sync.txt";
 
 // 定义文件内容变量fileContent
-var fileContent = 'Hello, JS';
-console.log( typeof fileContent);
+var fileContent = "Hello, JS";
+console.log(typeof fileContent);
 
 // ---------------------------------
 // 同步方案

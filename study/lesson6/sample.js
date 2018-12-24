@@ -19,15 +19,14 @@ function callbackReaddir(err, file) {
 
 var fileContent = fs.readdir(readDirPathString, callbackReaddir);
 
-
-const writeFilePathString = './write_file_async.txt';
+const writeFilePathString = "./write_file_async.txt";
 
 function callbackWriteFile(err) {
-    if (err) {
-      console.log('写文件失败');
-    } else {
-      console.log('写文件成功');
-    }
+  if (err) {
+    console.log("写文件失败");
+  } else {
+    console.log("写文件成功");
   }
+}
 
 fs.writeFile(writeFilePathString, fileContent, callbackWriteFile);
