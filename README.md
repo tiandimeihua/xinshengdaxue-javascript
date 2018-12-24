@@ -1,4 +1,4 @@
-# [Welcome to the xinshengdaxue-javascript!](https://tiandimeihua.github.io/xinshengdaxue-javascript/)
+# [Welcome to xinshengdaxue-javascript](https://tiandimeihua.github.io/xinshengdaxue-javascript/)
 
 念念不忘，必有回响
 
